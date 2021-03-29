@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theog46
-- 👀 I’m interested in progamming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java & Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
